@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+
+    <!-- Strings related to login -->
+    <string name="mark_telefono">Telefono</string>
+    <string name="mark_mensaje">Mensaje de Texto</string>
+    <string name="texto_enviar">Enviar a Whatsapp</string>
+    <string name="texto_enviar2">Enviar a Whatsapp</string>
+</resources>
